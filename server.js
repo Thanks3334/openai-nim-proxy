@@ -28,7 +28,7 @@ const MODEL_MAPPING = {
   'gpt-4o': 'z-ai/glm-5.2',
   'claude-3-opus': 'openai/gpt-oss-120b',
   'claude-3-sonnet': 'minimaxai/minimax-m3',
-  'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
+  'gemini-pro': 'nvidia/nemotron-3-ultra-550b-a55b' 
 };
 
 // Health check endpoint
