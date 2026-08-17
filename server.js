@@ -27,7 +27,7 @@ const MODEL_MAPPING = {
   'gpt-4-turbo': 'minimaxai/minimax-m3',
   'gpt-4o': 'z-ai/glm-5.2',
   'claude-3-opus': 'openai/gpt-oss-120b',
-  'claude-3-sonnet': 'mistralai/mistral-large-3-675b',
+  'claude-3-sonnet': 'minimaxai/minimax-m3',
   'gemini-pro': 'qwen/qwen3-next-80b-a3b-thinking' 
 };
 
