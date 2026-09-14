@@ -27,7 +27,7 @@ const MODEL_MAPPING = {
   'gpt-4-turbo': 'poolside/laguna-xs-2.1',
   'gpt-4o': 'moonshotai/kimi-k3',
   'claude-3-opus': 'openai/gpt-oss-120b',
-  'claude-3-sonnet': 'deepseek-ai/deepseek-v4-pro-0813',
+  'claude-3-sonnet': 'deepseek-ai/deepseek-v4-flash-0731',
   'gemini-pro': 'nvidia/nemotron-3-ultra-550b-a55b' 
 };
 
